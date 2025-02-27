@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DoAnKy3.props" />
+</Project>

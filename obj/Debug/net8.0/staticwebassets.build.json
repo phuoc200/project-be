@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "O3aUwwLcgnXIBgO5wbaycwc9rwZNvHqoWbpMdn+1VaU=",
+  "Source": "DoAnKy3",
+  "BasePath": "_content/DoAnKy3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DoAnKy3/wwwroot",
+      "Source": "DoAnKy3",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/0342c18d-836f-4093-91a8-80e0f536bffc.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/0342c18d-836f-4093-91a8-80e0f536bffc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cnwdlwu4jx",
+      "Integrity": "iHssDZ7zU4dzVzLqOO+4eHKjvkBhWj74s9WlBWzEitY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/0342c18d-836f-4093-91a8-80e0f536bffc.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/30569da8-e870-4965-9c70-ade1a51b6a3c.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/30569da8-e870-4965-9c70-ade1a51b6a3c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfz5tcdmtf",
+      "Integrity": "XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/30569da8-e870-4965-9c70-ade1a51b6a3c.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tc7lshjnrz",
+      "Integrity": "g3dRhtBKmY6gJqqyEwTC3ByxHnz7gydPzjKXw6QX0Yc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/a486e784-db3e-42a6-b606-28e988b0f89d.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/a486e784-db3e-42a6-b606-28e988b0f89d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qti7afjc66",
+      "Integrity": "DnFMYx5p5Kg/IkQ6auXs0Mg6tsv5nepLP8+Nu/UTNGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/a486e784-db3e-42a6-b606-28e988b0f89d.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ez6jwjd79n",
+      "Integrity": "GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ez6jwjd79n",
+      "Integrity": "GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/antipyretic.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/Products/antipyretic#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xh9ty3q3cp",
+      "Integrity": "q3xR9h2Dq0PEnfWABebY7LvpkR6vZh/cuR7LfuWP+AE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Products/antipyretic.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Betadine.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/Products/Betadine#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mp1wbv1ch0",
+      "Integrity": "qqcln5Fg9FMBm9/0fzbmr2H8AikT4NHyjl9/n/IzQf8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Products/Betadine.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/ORESOL.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/Products/ORESOL#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j6lb70ljt9",
+      "Integrity": "+7Yn68l/761vTP4pnjr2fdJ6u8jPGNhgp4l9FC2mmEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Products/ORESOL.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Oxy-gia-bidopha.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/Products/Oxy-gia-bidopha#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8umppx6cy2",
+      "Integrity": "4HyBqttijgc+Ry/dSPCNSM+u9DVRpepSE5tlXfDf5Zs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Products/Oxy-gia-bidopha.jpg"
+    },
+    {
+      "Identity": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Paracetamol-500mg.jpg",
+      "SourceId": "DoAnKy3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/",
+      "BasePath": "_content/DoAnKy3",
+      "RelativePath": "Images/Products/Paracetamol-500mg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfz5tcdmtf",
+      "Integrity": "XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Products/Paracetamol-500mg.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/0342c18d-836f-4093-91a8-80e0f536bffc.cnwdlwu4jx.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/0342c18d-836f-4093-91a8-80e0f536bffc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iHssDZ7zU4dzVzLqOO+4eHKjvkBhWj74s9WlBWzEitY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:36:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cnwdlwu4jx"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/0342c18d-836f-4093-91a8-80e0f536bffc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iHssDZ7zU4dzVzLqOO+4eHKjvkBhWj74s9WlBWzEitY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/0342c18d-836f-4093-91a8-80e0f536bffc.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/0342c18d-836f-4093-91a8-80e0f536bffc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iHssDZ7zU4dzVzLqOO+4eHKjvkBhWj74s9WlBWzEitY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:36:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iHssDZ7zU4dzVzLqOO+4eHKjvkBhWj74s9WlBWzEitY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/30569da8-e870-4965-9c70-ade1a51b6a3c.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/30569da8-e870-4965-9c70-ade1a51b6a3c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:40:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/30569da8-e870-4965-9c70-ade1a51b6a3c.nfz5tcdmtf.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/30569da8-e870-4965-9c70-ade1a51b6a3c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:40:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfz5tcdmtf"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/30569da8-e870-4965-9c70-ade1a51b6a3c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g3dRhtBKmY6gJqqyEwTC3ByxHnz7gydPzjKXw6QX0Yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:57:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3dRhtBKmY6gJqqyEwTC3ByxHnz7gydPzjKXw6QX0Yc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.tc7lshjnrz.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g3dRhtBKmY6gJqqyEwTC3ByxHnz7gydPzjKXw6QX0Yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:57:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tc7lshjnrz"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3dRhtBKmY6gJqqyEwTC3ByxHnz7gydPzjKXw6QX0Yc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a486e784-db3e-42a6-b606-28e988b0f89d.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/a486e784-db3e-42a6-b606-28e988b0f89d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DnFMYx5p5Kg/IkQ6auXs0Mg6tsv5nepLP8+Nu/UTNGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:45:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DnFMYx5p5Kg/IkQ6auXs0Mg6tsv5nepLP8+Nu/UTNGo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a486e784-db3e-42a6-b606-28e988b0f89d.qti7afjc66.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/a486e784-db3e-42a6-b606-28e988b0f89d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DnFMYx5p5Kg/IkQ6auXs0Mg6tsv5nepLP8+Nu/UTNGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:45:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qti7afjc66"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/a486e784-db3e-42a6-b606-28e988b0f89d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DnFMYx5p5Kg/IkQ6auXs0Mg6tsv5nepLP8+Nu/UTNGo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.ez6jwjd79n.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ez6jwjd79n"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.ez6jwjd79n.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ez6jwjd79n"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 05:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GoYY/mZm1aQSwQZtWqq/dlSu4xdhOfZAKM/jLG1jYEc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/antipyretic.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/antipyretic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3xR9h2Dq0PEnfWABebY7LvpkR6vZh/cuR7LfuWP+AE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:31:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3xR9h2Dq0PEnfWABebY7LvpkR6vZh/cuR7LfuWP+AE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/antipyretic.xh9ty3q3cp.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/antipyretic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3xR9h2Dq0PEnfWABebY7LvpkR6vZh/cuR7LfuWP+AE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:31:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xh9ty3q3cp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/antipyretic.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3xR9h2Dq0PEnfWABebY7LvpkR6vZh/cuR7LfuWP+AE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/Betadine.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Betadine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qqcln5Fg9FMBm9/0fzbmr2H8AikT4NHyjl9/n/IzQf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:28:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qqcln5Fg9FMBm9/0fzbmr2H8AikT4NHyjl9/n/IzQf8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/Betadine.mp1wbv1ch0.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Betadine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qqcln5Fg9FMBm9/0fzbmr2H8AikT4NHyjl9/n/IzQf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:28:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mp1wbv1ch0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/Betadine.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qqcln5Fg9FMBm9/0fzbmr2H8AikT4NHyjl9/n/IzQf8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/ORESOL.j6lb70ljt9.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/ORESOL.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+7Yn68l/761vTP4pnjr2fdJ6u8jPGNhgp4l9FC2mmEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:27:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j6lb70ljt9"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/ORESOL.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+7Yn68l/761vTP4pnjr2fdJ6u8jPGNhgp4l9FC2mmEo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/ORESOL.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/ORESOL.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+7Yn68l/761vTP4pnjr2fdJ6u8jPGNhgp4l9FC2mmEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:27:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+7Yn68l/761vTP4pnjr2fdJ6u8jPGNhgp4l9FC2mmEo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/Oxy-gia-bidopha.8umppx6cy2.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Oxy-gia-bidopha.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4HyBqttijgc+Ry/dSPCNSM+u9DVRpepSE5tlXfDf5Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8umppx6cy2"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/Oxy-gia-bidopha.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4HyBqttijgc+Ry/dSPCNSM+u9DVRpepSE5tlXfDf5Zs="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/Oxy-gia-bidopha.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Oxy-gia-bidopha.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4HyBqttijgc+Ry/dSPCNSM+u9DVRpepSE5tlXfDf5Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 18:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4HyBqttijgc+Ry/dSPCNSM+u9DVRpepSE5tlXfDf5Zs="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/Paracetamol-500mg.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Paracetamol-500mg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 06:21:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/Paracetamol-500mg.nfz5tcdmtf.jpg",
+      "AssetFile": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Paracetamol-500mg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 06:21:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfz5tcdmtf"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/Paracetamol-500mg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XYCe+WkokB2UR2tYsCZ8fJ+PQUWSqihCGBstuKPcKpo="
+        }
+      ]
+    }
+  ]
+}

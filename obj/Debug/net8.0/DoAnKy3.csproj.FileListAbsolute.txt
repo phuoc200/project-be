@@ -1,0 +1,266 @@
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/appsettings.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/DoAnKy3.staticwebassets.endpoints.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/DoAnKy3.exe
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/DoAnKy3.deps.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/DoAnKy3.runtimeconfig.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/DoAnKy3.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/DoAnKy3.pdb
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.csproj.AssemblyReference.cache
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.AssemblyInfoInputs.cache
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.AssemblyInfo.cs
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.csproj.CoreCompileInputs.cache
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/scopedcss/bundle/DoAnKy3.styles.css
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.DoAnKy3.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.DoAnKy3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.build.DoAnKy3.props
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DoAnKy3.props
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DoAnKy3.props
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.csproj.Up2Date
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/refint/DoAnKy3.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.pdb
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/DoAnKy3.genruntimeconfig.cache
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/obj/Debug/net8.0/ref/DoAnKy3.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/DevOne.Security.Cryptography.BCrypt.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/BCrypt.Net-Core.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Humanizer.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/DoAnKy3.staticwebassets.runtime.json
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAnKy3/bin/Debug/net8.0/PayPal.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/appsettings.Development.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/appsettings.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/DoAnKy3.staticwebassets.runtime.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/DoAnKy3.staticwebassets.endpoints.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/DoAnKy3
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/DoAnKy3.deps.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/DoAnKy3.runtimeconfig.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/DoAnKy3.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/DoAnKy3.pdb
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/DevOne.Security.Cryptography.BCrypt.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/BCrypt.Net-Core.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Humanizer.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/PayPal.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/System.CodeDom.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.csproj.AssemblyReference.cache
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.AssemblyInfoInputs.cache
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.AssemblyInfo.cs
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.csproj.CoreCompileInputs.cache
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.MvcApplicationPartsAssemblyInfo.cs
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.MvcApplicationPartsAssemblyInfo.cache
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/scopedcss/bundle/DoAnKy3.styles.css
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets.build.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets.development.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.DoAnKy3.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.DoAnKy3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.build.DoAnKy3.props
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DoAnKy3.props
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DoAnKy3.props
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.csproj.Up2Date
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/refint/DoAnKy3.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.pdb
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.genruntimeconfig.cache
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/ref/DoAnKy3.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/MySqlConnector.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll

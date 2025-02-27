@@ -1,0 +1,6 @@
+@DoAnKy3_HostAddress = http://localhost:5000
+
+GET {{DoAnKy3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

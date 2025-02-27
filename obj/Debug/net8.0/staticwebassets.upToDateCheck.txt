@@ -1,0 +1,11 @@
+wwwroot\Images\0342c18d-836f-4093-91a8-80e0f536bffc.jpg
+wwwroot\Images\30569da8-e870-4965-9c70-ade1a51b6a3c.jpg
+wwwroot\Images\5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg
+wwwroot\Images\a486e784-db3e-42a6-b606-28e988b0f89d.jpg
+wwwroot\Images\a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg
+wwwroot\Images\da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg
+wwwroot\Images\Products\antipyretic.jpg
+wwwroot\Images\Products\Betadine.jpg
+wwwroot\Images\Products\ORESOL.jpg
+wwwroot\Images\Products\Oxy-gia-bidopha.jpg
+wwwroot\Images\Products\Paracetamol-500mg.jpg

@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/0342c18d-836f-4093-91a8-80e0f536bffc.jpg",
+      "PackagePath": "staticwebassets/Images/0342c18d-836f-4093-91a8-80e0f536bffc.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/30569da8-e870-4965-9c70-ade1a51b6a3c.jpg",
+      "PackagePath": "staticwebassets/Images/30569da8-e870-4965-9c70-ade1a51b6a3c.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg",
+      "PackagePath": "staticwebassets/Images/5f0eebc4-5fab-4cf2-9c0c-eeb459ff1c7c.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Betadine.jpg",
+      "PackagePath": "staticwebassets/Images/Products/Betadine.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/ORESOL.jpg",
+      "PackagePath": "staticwebassets/Images/Products/ORESOL.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Oxy-gia-bidopha.jpg",
+      "PackagePath": "staticwebassets/Images/Products/Oxy-gia-bidopha.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/Paracetamol-500mg.jpg",
+      "PackagePath": "staticwebassets/Images/Products/Paracetamol-500mg.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/Products/antipyretic.jpg",
+      "PackagePath": "staticwebassets/Images/Products/antipyretic.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/a486e784-db3e-42a6-b606-28e988b0f89d.jpg",
+      "PackagePath": "staticwebassets/Images/a486e784-db3e-42a6-b606-28e988b0f89d.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg",
+      "PackagePath": "staticwebassets/Images/a4b4fa74-ae34-4119-bee0-8c1a8a0717c8.jpg"
+    },
+    {
+      "Id": "/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/wwwroot/Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg",
+      "PackagePath": "staticwebassets/Images/da5cf0bd-2c21-4240-a075-8d456ddef7d2.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DoAnKy3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DoAnKy3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DoAnKy3.props",
+      "PackagePath": "build\\DoAnKy3.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DoAnKy3.props",
+      "PackagePath": "buildMultiTargeting\\DoAnKy3.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DoAnKy3.props",
+      "PackagePath": "buildTransitive\\DoAnKy3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
