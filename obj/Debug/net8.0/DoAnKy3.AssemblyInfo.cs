@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoAnKy3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4efd92e64e06aae4af4507dc59649aec395e4dbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoAnKy3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoAnKy3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

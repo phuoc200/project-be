@@ -264,3 +264,4 @@ C:/Users/thand/New folder (3)/Subject-SM3/NET/Project/be/New folder/DoAnKy3/DoAn
 /Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/ref/DoAnKy3.dll
 /Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/MySqlConnector.dll
 /Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/cyberk/Documents/Zalo Received Files/DoAnKy3-new/DoAnKy3/obj/Debug/net8.0/DoAnKy3.sourcelink.json

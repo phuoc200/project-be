@@ -76,6 +76,10 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "PayPal": {
               "target": "Package",
               "version": "[1.9.1, )"
@@ -86,7 +90,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
