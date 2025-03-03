@@ -26,6 +26,48 @@ namespace DoAnKy3.Controllers
             _context = context;
         }
 
+        [HttpGet("orders")]
+        public async Task<IActionResult> GetAllOrders()
+        {
+            var orders = await _context.Orders
+                .Select(o => new
+                {
+                    o.OrderId,
+                    o.OrderDate,
+                    o.TotalAmount,
+                    o.Status,
+                    CustomerName = _context.Users
+                        .Where(u => u.UserId == o.UserId)
+                        .Select(u => u.Username)
+                        .FirstOrDefault() ?? "Unknown",
+                    Products = _context.OrderDetails
+                        .Where(od => od.OrderId == o.OrderId)
+                        .Select(od => new
+                        {
+                            Name = _context.Products
+                                .Where(p => p.Id == od.ProductId)
+                                .Select(p => p.Name)
+                                .FirstOrDefault() ?? "Unknown Product",
+                            od.Quantity
+                        })
+                        .ToList(),
+                    Payment = _context.Payments
+                        .Where(p => p.OrderId == o.OrderId)
+                        .Select(p => new
+                        {
+                            p.PaymentMethod,
+                            p.PaymentStatus,
+                            p.PaymentDate,
+                            p.Amount
+                        })
+                        .FirstOrDefault()
+                })
+                .OrderByDescending(o => o.OrderDate)
+                .ToListAsync();
+
+            return Ok(orders);
+        }
+
         // API: Lấy danh sách tất cả tài khoản
         [HttpGet("get-all-users")]
         public async Task<IActionResult> GetAllUsers()
